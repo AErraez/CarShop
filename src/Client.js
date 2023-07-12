@@ -1,7 +1,7 @@
 
 
 export default function Client ({setclient,setstep, client}) {
-    function handleSubmit (e) {
+    function handleSubmit (e) { 
         e.preventDefault()
         const form = e.target
         const formData = new FormData(form)
