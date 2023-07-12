@@ -6,7 +6,7 @@ export default function End() {
           <p className="card-text">
             Su pedido ha sido procesado exitosamente. Esperamos que disfrute de
             nuestros servicios.
-          </p>
+          </p>   
 
           <a href=""><button  className="btn btn-primary mt-4">Volver al inicio</button></a>
         </div>
